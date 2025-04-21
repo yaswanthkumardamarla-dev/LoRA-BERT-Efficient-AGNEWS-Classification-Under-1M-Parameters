@@ -83,6 +83,6 @@ This repository contains an efficient fine-tuning implementation of the `roberta
 
 ```bash
 .
-├── DL_Project_2_final.ipynb                # Training and fine-tuning script with LoRA
+├── DL_Project_2.ipynb                # Training and fine-tuning script with LoRA
 ├── README.md                               # Project documentation
 └── project2_best_submission.csv            # Final test predictions
